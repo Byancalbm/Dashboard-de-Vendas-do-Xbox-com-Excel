@@ -6,7 +6,8 @@ Este repositório contém o desenvolvimento de uma Dashboard de Vendas do Xbox, 
 Construir uma dashboard funcional e visualmente clara que permita acompanhar métricas essenciais de vendas, como:
 
 - Volume total de vendas por categoria de produto
-- 
+- Volume total de vendas por tipo de plano
+- Volume total de vendas por periodo
 
 ##🛠️ Tecnologias e Ferramentas
 
